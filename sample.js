@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import ModelClient, { isUnexpected } from "@azure-rest/ai-inference";
 import { AzureKeyCredential } from "@azure/core-auth";
 import fs from 'fs';
