@@ -227,7 +227,7 @@ With the server running, navigate to `http://localhost:5173` in your browser. Yo
 
 ![AI Chat Interface AI Foundry](https://github.com/Azure-Samples/JS-AI-Build-a-thon/blob/assets/jsai-buildathon-assets/ai-chat-interface-ai-foundry.png?raw=true)
 
-## Step 4️⃣: Deploy to Azure
+are 
 
 The project is already configured to deploy the webapp (frontend) to Azure Static Web Apps. The `azure.yaml` file contains the configuration for the webapp:
 
