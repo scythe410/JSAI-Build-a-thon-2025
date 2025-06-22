@@ -3,7 +3,7 @@ const changes = await git.diff({ staged: true });
 defDiff("CODE_CHANGES", changes);
 
 $`## Role
-You are a senior developer whose job is to review code changes and provide meaningful feedback.
+You are a senior developer whose job is to review code changes and provide meaningful and understandable feedback.
 
 ## Task
 Review <CODE_CHANGES>, point out possible mistakes or bad practices, and provide suggestions for improvement.
